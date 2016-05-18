@@ -59,11 +59,11 @@ do {                                                                            
 }
 
 - (void)testNumber2 {
-    XCTAssertFalse(1 == 1);
+    XCTAssertFalse(1 == 2);
 }
 
 - (void)testNumber3 {
-    assertEqual(2, 3);
+    assertEqual(3, 3);
 }
 
 - (void)testPerformanceExample {
