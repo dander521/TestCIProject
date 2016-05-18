@@ -1,4 +1,4 @@
 language: objective-c
 xcode_project: TestCIProject.xcodeproj # path to your xcodeproj folder
 xcode_scheme: TestCIProjectTests
--sdk iphonesimulator
+xcode_sdk: iphonesimulator
